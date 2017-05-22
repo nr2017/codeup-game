@@ -6,8 +6,9 @@ Original project: https://bitbucket.org/codeupsk/commits-n-crosses-demo
 # Game Board:
 
 |    |    |    |
-|:--:|:--:|:--:|
+|----|----|----|
 |    |    |    |
+|----|----|----|
 |    |    |    |
 
 -------------
